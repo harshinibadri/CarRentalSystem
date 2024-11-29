@@ -59,12 +59,9 @@ This project uses **AWT (Abstract Window Toolkit)** to create a graphical user i
   - Rent and return cars.
   - Displays an interactive menu with options for renting and returning cars.
 
-
 <details>
 <summary>Click to view video</summary>
 
-![Watch Demo](Working Model.mp4)
+![Watch Demo](WorkingModel.mp4)
 
 </details>
-
-
