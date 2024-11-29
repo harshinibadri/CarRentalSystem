@@ -63,7 +63,7 @@ This project uses **AWT (Abstract Window Toolkit)** to create a graphical user i
 <details>
 <summary>Click to view video</summary>
 
-![Watch Demo](media/demo.mp4)
+![Watch Demo](Working Model.mp4)
 
 </details>
 
